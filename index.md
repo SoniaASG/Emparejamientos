@@ -1,8 +1,4 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async
-          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
+ <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script> 
   
 # Table of Contents
 
@@ -24,7 +20,7 @@
 
 # Emparejamiento
 
-Es una coleccion de aristas en una grafica $G$ ajenas a $M$ tales
+Es una coleccion de aristas en una grafica $G$ ajenas a M tales
 que todo vertice de $G$ pertenece a exactamente una de las aristas
 de \(M\).
 
