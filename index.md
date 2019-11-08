@@ -2,7 +2,7 @@
 
 <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script> 
 
-<head>
+
 
 # Table of Contents
 
@@ -25,7 +25,7 @@
 # Emparejamiento
 
 Es una coleccion de aristas en una grafica \(G\) ajenas a \(W\) tales
-que todo vertice de $G$ pertenece a exactamente una de las aristas
+que todo vertice de \(G\) pertenece a exactamente una de las aristas
 de \(M\).
 
 
@@ -56,3 +56,4 @@ aristas de \(M\) con aritas en \(M\)
 
 Sea \(G=(A,B)\) una grafica bipartita. para casa \(S\) en \(A\)
 
+</head>
