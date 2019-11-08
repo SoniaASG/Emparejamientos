@@ -1,0 +1,29 @@
+#+title: Emparejamientos en gráficas
+
+* Definiciones:
+
+* Emparejamiento
+
+Es una coleccion de aristas en una grafica \(G\) ajenas a \(M\) tales
+que todo vertice de \(G\) pertenece a exactamente una de las aristas
+de \(M\).
+
+
+* Camino aumentador
+
+Es un camino en \(G\) que empieza en \(U\) y termina en \(W\), y
+alterna aristas fuera de \(M\) con aristas en \(M\)
+
+* Camino casi-aumentador 
+
+Es un camino que empieza en un vertice \(U\) termina en \(A\) y alterna
+aristas de \(M\) con aritas en \(M\)
+
+
+* Teoremas:
+
+
+* Teorema matrimonial de Hall:
+Sea \(G=(A,B)\) una grafica bipartita. para casa \(S\) en \(A\)
+
+
