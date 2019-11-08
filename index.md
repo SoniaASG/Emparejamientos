@@ -24,7 +24,7 @@
 
 # Emparejamiento
 
-Es una coleccion de aristas en una grafica $G$ ajenas a \(M\) tales
+Es una coleccion de aristas en una grafica $G$ ajenas a $M$ tales
 que todo vertice de $G$ pertenece a exactamente una de las aristas
 de \(M\).
 
