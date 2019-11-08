@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SoniaASG/Emparejamientos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Table of Contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.  [Definiciones:](#org5d5c028)
+2.  [Emparejamiento](#org14d8dae)
+3.  [Camino aumentador](#orga75223f)
+4.  [Camino casi-aumentador](#org08373e3)
+5.  [Teoremas:](#org1cfca94)
+6.  [Teorema matrimonial de Hall:](#org1359063)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<a id="org5d5c028"></a>
 
-# Header 1
-## Header 2
-### Header 3
+# Definiciones:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<a id="org14d8dae"></a>
 
-**Bold** and _Italic_ and `Code` text
+# Emparejamiento
 
-[Link](url) and ![Image](src)
-```
+Es una coleccion de aristas en una grafica \(G\) ajenas a \(M\) tales
+que todo vertice de \(G\) pertenece a exactamente una de las aristas
+de \(M\).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<a id="orga75223f"></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SoniaASG/Emparejamientos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Camino aumentador
 
-### Support or Contact
+Es un camino en \(G\) que empieza en \(U\) y termina en \(W\), y
+alterna aristas fuera de \(M\) con aristas en \(M\)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<a id="org08373e3"></a>
+
+# Camino casi-aumentador
+
+Es un camino que empieza en un vertice \(U\) termina en \(A\) y alterna
+aristas de \(M\) con aritas en \(M\)
+
+
+<a id="org1cfca94"></a>
+
+# Teoremas:
+
+
+<a id="org1359063"></a>
+
+# Teorema matrimonial de Hall:
+
+Sea \(G=(A,B)\) una grafica bipartita. para casa \(S\) en \(A\)
+
