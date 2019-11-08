@@ -1,10 +1,14 @@
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
-    tex2jax: {inlineMath: [["$","$"],["\(,\)"]]}
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
   });
 </script>
 <script type="text/javascript" src="../MathJax.js?config=TeX-AMS_HTML-full"></script>
+</head>
+<body>
 
+<p>
+  
 # Table of Contents
 
 1.  [Definiciones:](#org5d5c028)
@@ -26,7 +30,7 @@
 # Emparejamiento
 
 Es una coleccion de aristas en una grafica \(G\) ajenas a \(M\) tales
-que todo vertice de \(G\) pertenece a exactamente una de las aristas
+que todo vertice de $G$ pertenece a exactamente una de las aristas
 de \(M\).
 
 
