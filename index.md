@@ -4,10 +4,7 @@
   });
 </script>
 <script type="text/javascript" src="../MathJax.js?config=TeX-AMS_HTML-full"></script>
-</head>
-<body>
 
-<p>
   
 # Table of Contents
 
